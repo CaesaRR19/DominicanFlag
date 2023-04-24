@@ -1,0 +1,51 @@
+#bandera{
+    width: 900px;
+    height: 600px;
+    border: 1px solid black;
+    position: relative;
+    margin: 0 auto;
+}
+#azula1{
+    width: 400px;
+    height: 250px;
+    background-color: rgb(0,45,98);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#rojoc1{
+    width: 400px;
+    height: 250px;
+    background-color: rgb(206,17,38);
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+#escudo{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 400px;
+    bottom: 250px;                
+}
+#rojoa3{
+    width: 400px;
+    height: 250px;
+    background-color: rgb(206,17,38);
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+#azulc3{
+    width: 400px;
+    height: 250px;
+    background-color: rgb(0,45,98);
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+#esc{
+    width: 100px;
+    height: 100px;
+}
